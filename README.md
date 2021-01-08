@@ -13,4 +13,10 @@ The main.java file initially prints a menu with 8 different options to perform t
 This is followed by a switch case code, which handles the input by the user and executes the appropriate block of code.
 You must be familiar with OOPs concepts and basic JAVA programming in order to be able to work on this repository.
 
+## Suggestions
+### Appliance of Observer design pattern 
+![AA](https://user-images.githubusercontent.com/73241942/102748007-5e53b480-432f-11eb-9dda-aa0cbad65cbe.png)
+### Appliance of Factory Method design pattern
+![asdadad](https://user-images.githubusercontent.com/73241942/102780034-4138d900-4363-11eb-8e37-5dfa02c12337.png)
+
 Thank you.
